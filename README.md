@@ -1,7 +1,7 @@
 # Library_Archive_System
  
 Main menu:
-![image](https://user-images.githubusercontent.com/92368995/167215147-cb78ae89-7230-413a-abd0-eda44e3013f3.png)
+![image](https://user-images.githubusercontent.com/92368995/167216481-d86be86b-db33-4479-9637-cbab1a5d4b74.png)
 
 Option 1:
 ![image](https://user-images.githubusercontent.com/92368995/167215212-34ec8256-2db0-4dfc-b80a-3eb2db9f69f2.png)
